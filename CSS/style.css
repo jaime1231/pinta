@@ -1,0 +1,32 @@
+h1{ color: beige;}
+body{
+    background-image: url('../imagenes/Fondoo.gif');
+}
+#principal
+{ background-color:#f9fcfa;
+    height: 500px;}
+#contenedor{
+    width: 900px;
+    height:200px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    height: 200px;
+}
+
+nav{
+    height: 46px;
+}
+
+#contenido{
+    background-color:#C6F1DC;
+    height: 500px;
+}
+
+footer{
+    background-image: url('../imagenes/fondoNegro.jpg');
+}
